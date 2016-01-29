@@ -1,6 +1,6 @@
 name: patrick
 favicon: null
-layout_spectrum: 0.20979036018252373
+layout_spectrum: 1
 typography_spectrum: 0.386973308166489
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#b0914e'
+    - '#b9b0a1'
+    - '#8e703c'
+    - '#180e0f'
+    - '#40480c'
   brandStrength: 0.031388651579618454
   lightness: 0.6485669780522585
   saturation: 0.13777959626168013
